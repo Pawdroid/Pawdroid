@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Pawdroid/Pawdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pawdroid ✈️ ![](https://views.whatilearened.today/views/github/Pawdroid/Pawdroid.svg)
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Pawdroid&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawdroid&show_icons=true&layout=compact&theme=vue&hide_border=true)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Pawdroid/Pawdroid/output/github-contribution-grid-snake.svg)
+
+
+* ##### 🚀 免费订阅地址、免费clash订阅地址、
+* ##### 🚀 免费节点、共享节点、节点质量高可用、ss/v2ray/trojan节点
+* ##### 🚀 6小时更新一次、完全免费
+* ##### 免费翻墙、免费科学上网、免费梯子、谷歌商店、翻墙梯子
+* ##### contact me via [Trojan Telegram Group](https://t.me/join_trojan)
