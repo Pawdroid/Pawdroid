@@ -13,3 +13,4 @@
 * ##### 🚀 6小时更新一次、完全免费
 * ##### 免费翻墙、免费科学上网、免费梯子、谷歌商店、翻墙梯子
 * ##### contact me via [Trojan Telegram Group](https://t.me/join_trojan)
+* #### 广告节点合作请联系[TA](https://t.me/shadowrocket_android_master)
