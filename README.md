@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawdroid&show_icons=true&layout=compact&theme=vue&hide_border=true)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Pawdroid/Pawdroid/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Pawdroid/Pawdroid/output/github-snake.svg)
 
 
 * ##### 🚀 免费订阅地址、免费clash订阅地址、
